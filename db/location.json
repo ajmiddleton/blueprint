@@ -1,0 +1,6 @@
+[
+  {"name":"Mountain", "rate":"50", "_id":"0123456789abcdef01234567"},
+  {"name":"Lake", "rate":"35"},
+  {"name":"Island", "rate":"70"},
+  {"name":"Moon", "rate":"5000000"}
+]

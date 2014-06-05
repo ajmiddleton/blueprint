@@ -1,0 +1,8 @@
+[
+  {"email":"asdf1@gmail.com", "password":"1", "_id":"0123456789abcdef01234567"},
+  {"email":"asdf2@gmail.com", "password":"2"},
+  {"email":"asdf3@gmail.com", "password":"3"},
+  {"email":"asdf4@gmail.com", "password":"4"},
+  {"email":"asdf5@gmail.com", "password":"5"},
+  {"email":"sue@aol.com", "password":"1234", "_id":"0123456789abcdef01234568"}
+]
